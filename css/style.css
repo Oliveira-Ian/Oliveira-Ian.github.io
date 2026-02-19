@@ -195,3 +195,46 @@
     font-size: 45px;
     margin-right: 10px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#qa-list {
+  margin-top: 30px;
+  text-align: left;
+}
+
+#qa-list h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: var(--main-color);
+}
+
+#qa-list ul {
+    list-style: outside;
+    padding-left: 5%;
+}
+
+#qa-list li {
+  font-size: 13px;
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
